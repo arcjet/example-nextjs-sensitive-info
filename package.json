@@ -25,10 +25,10 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@arcjet/guard": "1.14.0",
-    "@arcjet/next": "1.14.0",
-    "@arcjet/sensitive-info-rampart": "1.14.0",
-    "next": "16.3.5",
+    "@arcjet/guard": "1.14.1",
+    "@arcjet/next": "1.14.1",
+    "@arcjet/sensitive-info-rampart": "1.14.1",
+    "next": "16.3.8",
     "react": "19.3.0",
     "react-dom": "19.3.0"
   },
